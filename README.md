@@ -4,15 +4,15 @@ Hi! I'm **Matthew Head**, a junior at San Diego State University majoring in Inf
 ---
 
 ##  Education
-**San Diego State University** - Pursuing B.S in Information Systems (Expected 2027)
-**Grossmont College** - Completed transferable coursework toward a B.S. in Information Systems (Transferred)
+- **San Diego State University** - Pursuing B.S in Information Systems (Expected 2027)
+- **Grossmont College** - Completed transferable coursework toward a B.S. in Information Systems (Transferred)
 
 ---
 
 ###  Skills  
-Proficiency in Microsoft Word, Excel, PowerPoint, and Access
-Proficient knowledge of programming languages (C++, Java, SQL)
-Strong problem-solving and critical-thinking skills
+- Proficiency in Microsoft Word, Excel, PowerPoint, and Access
+- Proficient knowledge of programming languages (C++, Java, SQL)
+- Strong problem-solving and critical-thinking skills
 ---
 
 ##  My Projects
